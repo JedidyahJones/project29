@@ -1,0 +1,1 @@
+this.SlinsShot.bodyA,pointB.attach;
